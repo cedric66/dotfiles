@@ -44,6 +44,7 @@ brew install itsycal
 brew install rectangle
 brew install firefox
 brew install caffeine
+brew install lulu
 
 #Optional Mac Tools
 #brew install synthing
@@ -57,7 +58,7 @@ brew install caffeine
 #brew install intellij-idea-ce
 #brew install jdownloader
 #brew install freetube
-#brew install ssh-config-editor
+#
 
 
 echo "Installing media tools"
