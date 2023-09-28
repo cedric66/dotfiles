@@ -43,6 +43,7 @@ brew install coteditor
 brew install itsycal
 brew install rectangle
 brew install firefox
+brew install caffeine
 
 #Optional Mac Tools
 #brew install synthing
