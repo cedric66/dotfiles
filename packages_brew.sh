@@ -17,7 +17,6 @@ brew install jq
 brew install kustomize
 brew install nmap
 brew install openjdk
-brew install redis
 brew install awscli
 brew install htop
 brew install htop-osx
@@ -33,6 +32,28 @@ brew install neofetch
 brew install kubectl
 brew install bat
 brew install fd
+
+#Optional dbs
+#brew install redis
+
+echo "Installing essential Mac Tools"
+brew install visual-studio-code
+brew install sublime-text
+brew install coteditor
+
+#Optional Mac Tools
+#brew install synthing
+#brew install virtualbox
+#brew install dbeaver-community
+#brew install mongodb-compass
+#brew install redisinsight
+#brew install Postman
+#brew install Jmeter
+#brew install drawio
+#brew install intellij-idea-ce
+#brew install jdownloader
+#brew install freetube
+
 
 echo "Installing media tools"
 brew install youtube-dl && brew install ffmpeg
