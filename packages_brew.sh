@@ -40,6 +40,9 @@ echo "Installing essential Mac Tools"
 brew install visual-studio-code
 brew install sublime-text
 brew install coteditor
+brew install itsycal
+brew install rectangle
+brew install firefox
 
 #Optional Mac Tools
 #brew install synthing
