@@ -57,6 +57,7 @@ brew install caffeine
 #brew install intellij-idea-ce
 #brew install jdownloader
 #brew install freetube
+#brew install ssh-config-editor
 
 
 echo "Installing media tools"
