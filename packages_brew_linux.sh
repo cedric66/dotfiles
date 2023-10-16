@@ -12,3 +12,31 @@ sudo apt-get install build-essential
 
 brew install gcc
 
+echo "Installing development tools"
+brew install tfenv 
+brew install pyenv
+brew install kubectx
+brew install kind
+brew install lazydocker
+brew install k9s
+brew install go
+brew install helm
+brew install jq
+brew install kustomize
+brew install nmap
+brew install openjdk
+brew install awscli
+brew install htop
+brew install htop-osx
+brew install nvm
+brew install zsh-completions
+brew install watch
+brew install p7zip
+brew install neovim
+brew install make
+brew install vagrant-completion
+brew install trash
+brew install neofetch
+brew install kubectl
+brew install bat
+brew install fd
